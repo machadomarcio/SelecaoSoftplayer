@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using System;
 
 namespace TaxaJuros
 {
@@ -29,6 +30,11 @@ namespace TaxaJuros
                         Title = "Taxa de Juros",
                         Version = "v1",
                         Description = "API REST criada com o ASP.NET Core 3.1 para consulta de Taxa de Juros",
+                        Contact = new OpenApiContact
+                        {
+                            Name = "Marcio Machado",
+                            Url = new Uri("https://github.com/machadomarcio")
+                        }
                     });
             });
         }

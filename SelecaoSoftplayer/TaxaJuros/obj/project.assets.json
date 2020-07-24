@@ -199,9 +199,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\TaxaJuros\\NetCore.TaxaJuros.csproj",
-      "projectName": "NetCore.TaxaJuros",
-      "projectPath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\TaxaJuros\\NetCore.TaxaJuros.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\TaxaJuros\\NetCore.TaxaJuros.API.csproj",
+      "projectName": "NetCore.TaxaJuros.API",
+      "projectPath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\TaxaJuros\\NetCore.TaxaJuros.API.csproj",
       "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\TaxaJuros\\obj\\",
       "projectStyle": "PackageReference",

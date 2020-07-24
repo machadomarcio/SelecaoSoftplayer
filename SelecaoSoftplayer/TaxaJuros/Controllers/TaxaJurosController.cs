@@ -4,24 +4,16 @@ using Microsoft.Extensions.Logging;
 namespace TaxaJuros.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("")]
     public class TaxaJurosController : ControllerBase
     {
-
         static readonly decimal TaxaJuro = 0.01M;
 
-        private readonly ILogger<TaxaJurosController> _logger;
-
-        public TaxaJurosController(ILogger<TaxaJurosController> logger)
-        {
-            _logger = logger;
-        }
-
         [HttpGet]
-        public IActionResult Get()
+        [Route("taxaJuros")]
+        public decimal GetTaxaJuro()
         {
-            _logger.LogDebug("iniciando endpoint que retorna a taxa de juro");
-            return Ok(TaxaJuro);
+            return TaxaJuro;
         }
     }
 }
