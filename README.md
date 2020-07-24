@@ -22,7 +22,7 @@ Nesta API existem 2 endpoints:
 - Calcula Juros: 
 Responsável por realizar o cálculo dos juros compostos de acordo com a fórmula: Valor Final = Valor Inicial * (1 + juros) ^ Tempo
 Os parâmetros necessários para realizar o cálculo são: Valor Inicial (decimal) e Tempo (inteiro) que representa a quantidade de meses.
-Responde pelo path relativo "//calculajuros?valorinicial=100&meses=5" sendo necessário informar os 2 parâmetros: valorInicial (decimal) e meses (inteiro).
+Responde pelo path relativo "/calculajuros?valorinicial=100&meses=5" sendo necessário informar os 2 parâmetros: valorInicial (decimal) e meses (inteiro).
 
 Exemplo: "/calculajuros?valorinicial=100&meses=5".
 
