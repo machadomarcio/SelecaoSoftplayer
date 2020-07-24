@@ -19,14 +19,14 @@ Observação: A chamada ao método da API também pode ser realizada pela interf
 
 Nesta API existem 2 endpoints:
 
-- Calcula Juros
+- Calcula Juros: 
 Responsável por realizar o cálculo dos juros compostos de acordo com a fórmula: Valor Final = Valor Inicial * (1 + juros) ^ Tempo
 Os parâmetros necessários para realizar o cálculo são: Valor Inicial (decimal) e Tempo (inteiro) que representa a quantidade de meses.
 Responde pelo path relativo "//calculajuros?valorinicial=100&meses=5" sendo necessário informar os 2 parâmetros: valorInicial (decimal) e meses (inteiro).
 
 Exemplo: "/calculajuros?valorinicial=100&meses=5".
 
-- Show me the code
+- Show me the code: 
 Responsável por retornar a URL do Github onde esta o código do projeto.
 Responde pelo path relativo "/showmethecode" e não é necessário informar parâmetro.
 
