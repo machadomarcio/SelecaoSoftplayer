@@ -13,6 +13,10 @@ Responsável por retornar a taxa de juro.
 
 Responde pelo path relativo "/taxaJuros"
 
+Retorna o juros de 1% ou 0,01 (fixo no código)
+
+Exemplo: /taxaJuros
+
 Observação: A chamada ao método da API também pode ser realizada pela interface do Swagger que pode ser acessada usando o caminho relativo "/swagger".
 
 # API 2: NetCore.CalculaJuros.API
