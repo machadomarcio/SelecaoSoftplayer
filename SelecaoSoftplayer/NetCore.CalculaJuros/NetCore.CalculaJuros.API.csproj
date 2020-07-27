@@ -8,5 +8,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NetCore.CalculoJuro.Domain\NetCore.CalculoJuro.Domain.csproj" />
+  </ItemGroup>
+
 
 </Project>

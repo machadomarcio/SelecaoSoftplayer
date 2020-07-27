@@ -75,6 +75,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "NetCore.CalculoJuro.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NetCore.CalculoJuro.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCore.CalculoJuro.Domain.dll": {}
+        }
       }
     }
   },
@@ -185,10 +195,16 @@
         "swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "NetCore.CalculoJuro.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NetCore.CalculoJuro.Domain/NetCore.CalculoJuro.Domain.csproj",
+      "msbuildProject": "../NetCore.CalculoJuro.Domain/NetCore.CalculoJuro.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "NetCore.CalculoJuro.Domain >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.5.1"
     ]
   },
@@ -221,7 +237,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\NetCore.CalculoJuro.Domain\\NetCore.CalculoJuro.Domain.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\NetCore.CalculoJuro.Domain\\NetCore.CalculoJuro.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

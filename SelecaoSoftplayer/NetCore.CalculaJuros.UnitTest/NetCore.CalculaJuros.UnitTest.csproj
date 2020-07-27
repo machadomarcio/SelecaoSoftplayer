@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NetCore.CalculaJuros\NetCore.CalculaJuros.API.csproj" />
+    <ProjectReference Include="..\NetCore.CalculoJuro.Domain\NetCore.CalculoJuro.Domain.csproj" />
   </ItemGroup>
 
 </Project>
