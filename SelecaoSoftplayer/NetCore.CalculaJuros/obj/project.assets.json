@@ -85,6 +85,16 @@
         "runtime": {
           "bin/placeholder/NetCore.CalculoJuro.Domain.dll": {}
         }
+      },
+      "NetCore.TaxaJuros.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NetCore.TaxaJuros.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCore.TaxaJuros.Service.dll": {}
+        }
       }
     }
   },
@@ -200,11 +210,17 @@
       "type": "project",
       "path": "../NetCore.CalculoJuro.Domain/NetCore.CalculoJuro.Domain.csproj",
       "msbuildProject": "../NetCore.CalculoJuro.Domain/NetCore.CalculoJuro.Domain.csproj"
+    },
+    "NetCore.TaxaJuros.Service/1.0.0": {
+      "type": "project",
+      "path": "../NetCore.TaxaJuros.Service/NetCore.TaxaJuros.Service.csproj",
+      "msbuildProject": "../NetCore.TaxaJuros.Service/NetCore.TaxaJuros.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "NetCore.CalculoJuro.Domain >= 1.0.0",
+      "NetCore.TaxaJuros.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.5.1"
     ]
   },
@@ -240,6 +256,9 @@
           "projectReferences": {
             "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\NetCore.CalculoJuro.Domain\\NetCore.CalculoJuro.Domain.csproj": {
               "projectPath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\NetCore.CalculoJuro.Domain\\NetCore.CalculoJuro.Domain.csproj"
+            },
+            "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\NetCore.TaxaJuros.Service\\NetCore.TaxaJuros.Service.csproj": {
+              "projectPath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\NetCore.TaxaJuros.Service\\NetCore.TaxaJuros.Service.csproj"
             }
           }
         }

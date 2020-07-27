@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.TaxaJuros.UnitTest"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.CalculoJuro.Domain", "NetCore.CalculoJuro.Domain\NetCore.CalculoJuro.Domain.csproj", "{97D86E62-A9BD-4119-B523-254CEE20EE6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.TaxaJuros.Service", "NetCore.TaxaJuros.Service\NetCore.TaxaJuros.Service.csproj", "{FA5791C4-B06F-415E-87E6-C20439D9A9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{97D86E62-A9BD-4119-B523-254CEE20EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97D86E62-A9BD-4119-B523-254CEE20EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97D86E62-A9BD-4119-B523-254CEE20EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5791C4-B06F-415E-87E6-C20439D9A9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5791C4-B06F-415E-87E6-C20439D9A9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5791C4-B06F-415E-87E6-C20439D9A9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5791C4-B06F-415E-87E6-C20439D9A9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

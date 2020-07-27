@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using NetCore.TaxaJuros.Service.Interfaces;
+using NetCore.TaxaJuros.Service.Services;
 using System.IO;
+using System.Threading.Tasks;
 
 namespace NetCore.CalculaJuros.Controllers
 {
@@ -21,10 +24,8 @@ namespace NetCore.CalculaJuros.Controllers
 
             var urlApiTaxaJuro = Configuration["TaxaJuros:Url"];
 
-            var client = new System.Net.Http.HttpClient();
-            var response = await client.GetAsync(urlApiTaxaJuro);
-
-            var taxaJuro = decimal.Parse(response.Content.ReadAsStringAsync().Result.Replace(".", ","));
+            ITaxaJurosService taxaJurosService = new TaxaJurosService();
+            decimal taxaJuro = await taxaJurosService.GetTaxaDeJuro(urlApiTaxaJuro);
 
             var calculoJuro = new JuroComposto(valorInicial, meses, taxaJuro);
             return calculoJuro.ValorFinal;

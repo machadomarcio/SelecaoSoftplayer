@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NetCore.CalculoJuro.Domain\NetCore.CalculoJuro.Domain.csproj" />
+    <ProjectReference Include="..\NetCore.TaxaJuros.Service\NetCore.TaxaJuros.Service.csproj" />
   </ItemGroup>
 
 

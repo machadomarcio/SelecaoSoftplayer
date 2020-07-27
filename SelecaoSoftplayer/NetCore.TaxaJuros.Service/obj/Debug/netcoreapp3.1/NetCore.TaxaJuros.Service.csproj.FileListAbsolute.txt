@@ -1,0 +1,8 @@
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\bin\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.deps.json
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\bin\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.dll
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\bin\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.pdb
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\obj\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\obj\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.AssemblyInfo.cs
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\obj\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\obj\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.dll
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.TaxaJuros.Service\obj\Debug\netcoreapp3.1\NetCore.TaxaJuros.Service.pdb

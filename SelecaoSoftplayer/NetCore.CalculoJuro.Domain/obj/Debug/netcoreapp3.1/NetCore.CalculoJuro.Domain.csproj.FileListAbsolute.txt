@@ -1,0 +1,8 @@
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\bin\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.deps.json
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\bin\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.dll
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\bin\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.pdb
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\obj\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.AssemblyInfoInputs.cache
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\obj\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.AssemblyInfo.cs
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\obj\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\obj\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.dll
+C:\Users\marci\source\repos\machadomarcio\SelecaoSoftplayer\SelecaoSoftplayer\NetCore.CalculoJuro.Domain\obj\Debug\netcoreapp3.1\NetCore.CalculoJuro.Domain.pdb

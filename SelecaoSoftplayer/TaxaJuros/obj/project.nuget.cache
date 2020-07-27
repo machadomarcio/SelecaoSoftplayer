@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8f5ewwPM1Fi1LW8cwD9yshPZC77xR5XFGu+LgWj1Xma221uFhO702iJY1jIXyG5yBDb4rNr0dIP8MgZiy96Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marci\\source\\repos\\machadomarcio\\SelecaoSoftplayer\\SelecaoSoftplayer\\TaxaJuros\\NetCore.TaxaJuros.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
